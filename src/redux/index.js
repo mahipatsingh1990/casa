@@ -1,0 +1,1 @@
+export { addRule } from './rules/ruleAction'
